@@ -2,6 +2,8 @@
 
 ![Dashboard Page 1](/Images/Page%201.png)
 
+[View interactive dashboard here on the Power BI Service](https://shorturl.at/ZrWV0)
+
 
 ## Introduction
 
